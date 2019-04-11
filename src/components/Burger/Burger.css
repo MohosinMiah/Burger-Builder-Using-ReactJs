@@ -1,0 +1,9 @@
+.Burger{
+    widows: 200px;
+    height: 250px;
+    margin: auto;
+    overflow: scroll;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
